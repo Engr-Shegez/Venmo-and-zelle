@@ -16,7 +16,6 @@
     color: white;
 }
 .x-button{
-    border-style: solid;
     font-size: 40px;
     border-radius: 30px;
     width: 60px;
@@ -26,7 +25,6 @@
     border: none;
     margin-top: 5px;
     margin-right: 30px;
-    padding-right: 40px
 
 }
 .Icon{
