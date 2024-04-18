@@ -1,0 +1,71 @@
+.header{
+    background-color: rgb(10, 116, 186);
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex: 1;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+}
+.payment{
+    font-size: 30px;
+    color: white;
+}
+.x-button{
+    border-style: solid;
+    font-size: 38px;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    color: gray;
+    background-color: rgb(228, 227, 227);
+    border: none;
+    margin-top: 5px;
+    margin-right: 10px;
+
+}
+.Icon{
+    width: 50px;
+    padding-left: 20px;
+}
+.middle{
+    color: rgb(156, 155, 155);
+    font-size: 30px;
+}
+.DL{
+    border-style: solid;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    background-color: gray;
+    border: none;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.description{
+    margin-top: 40px;
+    text-align: center;
+    font-size: 30px;
+    color: gray;
+}
+.page-info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 200px;
+    position: fixed;
+    left: 0px;
+    right: 0px;
+}
+.body{
+    width: 100%;
+}
+
